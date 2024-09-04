@@ -13,5 +13,9 @@ This project involves analyzing traffic accident data in Kensington and Chelsea 
 - To explore and visualize the impact of weather and road conditions on the occurrence of traffic accidents.
 - To analyze the distribution of accidents across different times of the day.
 - To identify accident hotspots and contributing factors.
+
+## Finished work
+
+You can access [Traffic_accident_analysis.xlsb](https://drive.google.com/file/d/1JqHF8l7CV2UirRVWpItx5m_FyutEA5dH/view?usp=drive_link); which contains the cleaned data and the visualizations.
   
 Cheers!!!
